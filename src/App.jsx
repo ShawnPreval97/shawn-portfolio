@@ -275,7 +275,7 @@ export default function ShawnPortfolioHomepage() {
             </p>
 
             <a
-              href="mailto:shawnpreval@gmail.com"
+              href="mailto:shawnpreval2020@outlook.com"
               className="mt-7 inline-block rounded-sm border border-neutral-500 px-6 py-3 text-sm"
             >
               Get In Touch
@@ -288,7 +288,7 @@ export default function ShawnPortfolioHomepage() {
                 Email
               </p>
 
-              <p className="mt-3">shawnpreval@gmail.com</p>
+              <p className="mt-3">shawnpreval2020@outlook.com</p>
             </div>
 
             <div>
