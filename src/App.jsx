@@ -127,8 +127,8 @@ export default function ShawnPortfolioHomepage() {
         <div className="relative">
           <div className="relative overflow-hidden rounded-sm bg-neutral-200 shadow-sm">
             <img
-              src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=1100&q=80"
-              alt="Professional portrait"
+              src="/Images/shawn-headshot.png"
+              alt="Shawn Preval"
               className="h-[430px] w-full object-cover grayscale"
             />
           </div>
