@@ -8,14 +8,26 @@ Related permanent rules: `AGENTS.md`.
 
 ## Site position
 
-Shawn Preval is positioned around:
+**Primary destination: client-facing work**, not another internal MarTech operations role.
 
-- Marketing Technology
-- Marketing Analytics
+Position Shawn for roles such as:
+
 - Solutions Consulting
-- CRM, attribution, reporting, automation, and business systems
+- Pre-Sales / Sales Engineering
+- Strategic or Technical Account Management
+- Customer Success Strategy
+- Client-Facing Implementation Consulting
+- Product Specialist roles
 
-Not primarily as a dashboard developer, SQL implementer, or generic data analyst.
+He is open to commercially oriented and sales-adjacent roles.
+
+Present him as an experienced consultant and technical-business translator making a logical move into client-facing solutions work.
+
+Hands-on analytics and MarTech experience is **technical credibility** for discovery, consultative conversations, executive presentations, requirements clarification, solution shaping, stakeholder alignment, business-case development, and measurable customer outcomes—not a pitch for dashboard ownership, reporting maintenance, system administration, or operational cleanup.
+
+Public writing, podcast appearances, and the Emerson College app project demonstrate public communication, audience engagement, research interpretation, executive-friendly explanation, product discovery, customer-centered thinking, and the ability to explain emerging technology clearly.
+
+**Do not claim** that Shawn has formally held a Sales Engineer, Product Manager, or Solutions Consultant title, or quota ownership, product-demo ownership, procurement ownership, or closing responsibility unless separately verified. Do not claim sole ownership of team projects.
 
 ---
 
@@ -23,56 +35,56 @@ Not primarily as a dashboard developer, SQL implementer, or generic data analyst
 
 **Label**
 
-Marketing Technology • Analytics • Solutions Consulting
+Solutions Consulting • Client Strategy • Marketing Technology
 
 **Headline**
 
-I turn disconnected marketing systems into usable business solutions.
+I help clients turn complex marketing technology into clear decisions and working solutions.
 
 **Support**
 
-I work across CRM, attribution, reporting, automation, and analytics to translate ambiguous business needs into systems that teams can understand, implement, and use.
+I combine consulting, analytics, and hands-on MarTech experience to lead discovery, clarify business needs, explain technical tradeoffs, and shape solutions that stakeholders can understand and support.
 
 **Secondary copy**
 
-My experience spans media planning, client consulting, market research, and cross-functional MarTech delivery—giving me both the business context and technical fluency to connect strategy with execution.
+My background includes client advisory work, executive presentations, market research, CRM, attribution, reporting, and automation—giving me the technical credibility to discuss implementation without losing sight of the customer, commercial objective, or business outcome.
 
 **Suggested CTAs (structure only)**
 
-- Primary: View My Work → `#projects` (or equivalent featured-work anchor)
-- Secondary: About Me → `#about`
+- Primary: View Selected Work → `#projects` (or equivalent featured-work anchor)
+- Secondary: Contact Me → `#contact`
 
 ---
 
 ## Capabilities
 
-Section purpose: what Shawn does, framed as consulting and systems work—not tool implementation alone.
+Section purpose: client-facing consulting strengths. Do not frame these as internal operations tasks.
 
-### 1. Diagnose the Real Problem
+### 1. Lead Discovery
 
-Clarify ambiguous requests, uncover reporting and process gaps, and identify the underlying business need before choosing a solution.
+Ask the questions that uncover the real customer objective, operational constraint, decision process, and definition of success.
 
-### 2. Design Practical Systems
+### 2. Translate Complexity
 
-Develop CRM workflows, attribution frameworks, reporting architecture, audience strategies, and automation processes that work across teams and platforms.
+Explain analytics, CRM, attribution, automation, and data systems in language that executives, marketers, and technical teams can act on.
 
-### 3. Translate Across Teams
+### 3. Shape the Solution
 
-Connect executives, marketers, analysts, technical teams, and vendors by turning business objectives into clear requirements and technical findings into useful decisions.
+Connect customer requirements to practical platform capabilities, workflows, implementation considerations, and measurable outcomes.
 
-### 4. Connect Work to Outcomes
+### 4. Build Confidence and Momentum
 
-Measure whether implementations improve revenue, engagement, operational clarity, and decision-making—not merely whether the technology functions.
+Develop presentations, recommendations, and business cases that align stakeholders and help opportunities move from interest to decision and adoption.
 
 ---
 
 ## Outcomes
 
-Section purpose: verified public impact only. Do not strengthen claims or imply sole ownership of team outcomes.
+Section purpose: verified public impact only. Do not strengthen claims, change metrics, or imply sole ownership of team outcomes.
 
 ### Approximately $7K
 
-New fundraising revenue generated by a CRM lead-nurture flow Shawn helped conceptualize, built, and executed at Manhattan Institute.
+New fundraising revenue generated by a CRM lead-nurture solution Shawn helped conceptualize, built, and executed.
 
 ### Approximately $700K
 
@@ -80,83 +92,209 @@ Client consulting engagements supported during a single month as part of the Key
 
 ### Up to $3M
 
-Media budgets managed and analyzed while supporting campaign planning and optimization at Connelly Partners.
+Media budgets managed and analyzed while supporting client campaign planning and optimization.
 
 ---
 
 ## About
 
-I began my career in media planning, where I learned how marketing investments are made and measured. Independent consulting and market research taught me how to clarify business questions, develop recommendations, and communicate with clients.
+My career has consistently placed me between business questions and technical answers. I began in media planning, where I learned how clients evaluate marketing investments. Independent consulting and market research strengthened my ability to ask questions, analyze unfamiliar problems, develop recommendations, and present findings clearly.
 
-Today, I bring those skills together across marketing technology, analytics, CRM, reporting, attribution, and automation. Much of my work begins with a request that sounds straightforward but reveals a larger systems problem: inconsistent definitions, disconnected platforms, unclear ownership, weak attribution, or a process that has never been formally designed.
+My more recent work has given me hands-on experience with the systems behind those conversations, including CRM, attribution, reporting, analytics, automation, and data platforms. That experience allows me to understand both what a customer wants to accomplish and what implementation actually requires.
 
-My role is to uncover that problem, translate it into practical requirements, coordinate the people and technology involved, and leave behind a solution that teams can actually use.
+I am at my best when I am speaking with stakeholders, clarifying an unclear problem, explaining competing options, and helping people develop confidence in a practical path forward.
+
+I have also authored research-driven technology commentary and appeared in podcast discussions, experience that strengthened my ability to explain unfamiliar ideas clearly, develop a point of view, and engage audiences outside a formal presentation.
 
 ---
 
 ## Featured work
 
-Section purpose: selected engagements framed as Problem → Investigation → Solution → Outcome where possible. Titles and focus lines below are approved.
+Section purpose: selected engagements framed through discovery, stakeholder collaboration, solution shaping, and outcomes. Titles, descriptions, and focus lines below are approved. Do not invent results, technologies, titles, or pre-sales responsibilities.
 
-### 1. CRM Lead Nurture and Fundraising Revenue
+### 1. CRM Growth Solution
 
-Helped shape, build, and execute an automated CRM lead-nurture flow that generated approximately $7K in new fundraising revenue.
+Partnered with fundraising stakeholders to shape an automated lead-nurture concept, translated the idea into audience rules and CRM workflows, and executed a solution that generated approximately $7K in new fundraising revenue.
 
-**Focus:** CRM strategy, automation, audience rules, execution, measurement
+**Focus:** stakeholder collaboration, solution design, CRM automation, execution, revenue impact
 
-### 2. State of the Funnel Reporting Transformation
+### 2. Emerson College App Redesign
 
-Led the redesign and migration of cross-brand funnel reporting from Tableau to Domo, expanding the work into KPI definition, attribution logic, stakeholder requirements, and quality assurance.
+**Category / label:** Product Discovery • User Experience • Adoption Strategy
 
-**Focus:** Reporting architecture, requirements gathering, governance, implementation
+Collaborated with Emerson College’s web-services team and fellow students to translate focus-group research and firsthand user feedback into a more practical, student-centered mobile experience. The team reorganized app features around everyday student needs, improved feature visibility, and helped communicate how the product could fit into students’ daily lives.
 
-### 3. Unified Lead Attribution
+Demonstrates: user discovery, focus-group research, product positioning, feature adoption, cross-functional collaboration, user-centered communication.
 
-Designed a framework connecting paid media, website activity, newsletter acquisition, CRM records, and fundraising data across systems with incomplete identifiers.
+**Do not claim** that Shawn coded the app, independently designed it, owned the product roadmap, or led the entire project.
 
-**Focus:** Attribution, system reconciliation, measurement strategy, data governance
+**Source**
 
-### 4. Behavior-Based Audience Analytics
+- Source label: Read the Emerson Today feature
+- Source title: New Emerson App Puts Campus in Students’ Hands
+- Publisher: Emerson Today
+- Date: September 19, 2018
+- URL: https://today.emerson.edu/2018/09/19/new-emerson-app-puts-campus-in-students-hands/
 
-Developed audience frameworks that moved reporting beyond traffic totals toward behavioral signals that could support personalization, targeting, and donor engagement.
+### 3. Attribution Solution Design
 
-**Focus:** Audience strategy, Piano Analytics, segmentation, business recommendations
+Diagnosed measurement gaps across disconnected acquisition and fundraising systems, clarified what could and could not be measured, and designed an attribution framework stakeholders could use for decisions.
+
+**Focus:** problem diagnosis, solution design, technical translation, decision support
+
+### 4. Client Advisory and Delivery
+
+Supported approximately $700K in consulting engagements during one month by managing concurrent projects, developing executive-ready recommendations, and responding directly to client business questions.
+
+**Focus:** client communication, consulting delivery, presentations, recommendations
 
 ---
 
-## Writing
+## Published Work & Conversations
 
-Do not use fake links, placeholder articles, or future publication dates.
+**This section is separate from the Blog.**
 
-The existing writing section should later be replaced with verified published work from:
+Published Work & Conversations contains **externally published** articles, podcast appearances, and third-party features such as Keypoint Intelligence, WhatTheyThink, and Emerson Today. These items are Shawn’s public professional proof of communication and research interpretation.
 
-- Keypoint Intelligence
-- WhatTheyThink
+Homepage section (current UI label may read “Writing & Conversations”): place after Featured Work. Anchor: `#writing`.
 
-Until those items are selected and linked, prefer removing placeholder writing cards rather than inventing posts.
+Do **not** mix Blog posts into this section.
+
+**Intro**
+
+I have authored research-driven articles and participated in podcast conversations exploring artificial intelligence, consumer behavior, workplace technology, and the relationship between emerging tools and real human needs. This work reflects my ability to interpret research, develop a point of view, and explain complex subjects to broader business audiences.
+
+Use restrained type labels: Article, Co-authored Article, Published Industry Article, Podcast Guest. Text-based cards preferred. No fake thumbnails or invented artwork. All links must use exact URLs, open in a new tab, and include `rel="noopener noreferrer"`.
+
+### 1. AI’ve Seen the Future: Streamline Your Workflow Like The Jetsons
+
+- **Type:** Article
+- **Publisher:** Keypoint Intelligence
+- **Date:** July 29, 2024
+- **Author:** Shawn Preval
+- **Description:** An examination of artificial-intelligence adoption, workflow automation, and how organizations can introduce emerging tools strategically while preserving human judgment and higher-value work.
+- **URL:** https://keypointintelligence.com/keypoint-blogs/aive-seen-the-future-streamline-your-workflow-like-the-jetsons
+- **Link label:** Read article
+
+### 2. Consumer Perspective of Artificial Intelligence
+
+- **Type:** Co-authored Article
+- **Publisher:** Keypoint Intelligence
+- **Date:** February 25, 2024
+- **Authors:** Gabriel Alers and Shawn Preval
+- **Description:** A research-based examination of generative-AI adoption across demographic groups and the differences in awareness and usage among consumers.
+- **URL:** https://keypointintelligence.com/keypoint-blogs/consumer-perspective-of-artificial-intelligence
+- **Link label:** Read article
+
+### 3. Looking at Another Statistic from Keypoint Intelligence’s Ongoing Analysis of the Future of Work
+
+- **Type:** Article
+- **Publisher:** Keypoint Intelligence
+- **Date:** January 30, 2023
+- **Author:** Shawn Preval
+- **Description:** An analysis of generational differences in workplace print behavior and how hybrid work affected employees’ use of printed and digital information.
+- **URL:** https://keypointintelligence.com/keypoint-blogs/looking-at-another-statistic-from-keypoint-intelligence-s-ongoing-analysis-of-the-future-of-work
+- **Link label:** Read article
+
+### 4. Streamlining Your Workflow with AI: Lessons from The Jetsons
+
+- **Type:** Published Industry Article
+- **Publisher:** WhatTheyThink
+- **Date:** September 19, 2024
+- **Author:** Shawn Preval
+- **Description:** A practical discussion of AI adoption, customer experience, workflow efficiency, and why organizations should introduce artificial intelligence as a tool supporting human creativity and problem-solving.
+- **URL:** https://whattheythink.com/articles/121193-streamlining-your-workflow-ai-lessons-jetsons/
+- **Link label:** Read article
+
+### 5. AI Everywhere — Therapy and the Resource on the Other End
+
+- **Type:** Podcast Guest
+- **Publisher:** The Key Point Podcast / Keypoint Intelligence
+- **Date:** June 25, 2025
+- **Participants:** Alexia Morgan, Lindsey Naples, and Shawn Preval
+- **Description:** A conversation about whether artificial intelligence can help address gaps in access to mental-health support, including the human limitations, ethical questions, and social implications of relying on technology for care.
+- **Primary URL:** https://podcasts.apple.com/us/podcast/ai-everywhere-therapy-and-the-resource-on-the-other-end/id1450312663?i=1000714508355
+- **Alternate URL:** https://www.spreaker.com/episode/ai-everywhere-therapy-and-the-resource-on-the-other-end--66740070
+- **Visible card URL:** use the primary (Apple Podcasts) URL
+- **Link label:** Listen to episode
+
+---
+
+## Blog
+
+**This section is separate from Published Work & Conversations.**
+
+Blog is Shawn’s own ongoing personal writing published directly on this website. Tone may be thoughtful, personal, analytical, exploratory, or opinionated. Do not present Blog posts as formal thought leadership, academic research, content marketing, or industry “insights.”
+
+Place after Published Work & Conversations and before Contact. Navigation and section are **always visible**. When no post has `published: true`, show the empty state: “First post coming soon.” When published posts exist, show the post list automatically. Anchor: `#blog`. Individual posts use shareable hashes such as `#blog/post-slug`.
+
+**Intro**
+
+Personal writing about technology, work, culture, marketing, and ideas I am still trying to understand.
+
+### Content system
+
+- Files live in `src/content/blog/*.mdx`
+- Start from `src/content/blog/_template.mdx` (`published: false`; never shown live)
+- Discovery uses Vite `import.meta.glob` via `src/lib/blog.js`
+- UI: `src/components/BlogSection.jsx`, `src/components/BlogPost.jsx`
+
+### Approved metadata shape
+
+```js
+export const meta = {
+  title: "Post title",
+  slug: "post-slug",
+  date: "YYYY-MM-DD",
+  excerpt: "Short description.",
+  tags: ["Tag"],
+  published: false
+}
+```
+
+- `published: false` keeps a draft hidden
+- `published: true` displays the post
+- Published posts sort newest first
+- Malformed or incomplete drafts are ignored without crashing the site
+- Do not invent fake posts or opinions for Shawn
+
+### Publishing workflow
+
+1. Duplicate `_template.mdx`
+2. Rename using the article slug (for example `my-post.mdx`)
+3. Complete title, slug, date, excerpt, and tags
+4. Write or paste the article body
+5. Set `published: true` when ready
+6. Preview with `npm run dev`
+7. Run `npm run build`
+8. Commit and deploy through the existing workflow
+
+To unpublish: set `published: false` (or remove the file), then rebuild and deploy.
 
 ---
 
 ## Contact / footer (guidance)
 
-Keep contact factual and consistent across UI and SEO (email, LinkedIn, location).
+Keep contact factual and consistent across UI and SEO (email, LinkedIn, location, website).
 
 Suggested pitch themes (adapt to approved tone; do not invent opportunities Shawn does not want):
 
-- Open to conversations involving marketing technology, analytics, CRM, attribution, reporting, automation, and solutions consulting.
-- Emphasize usable business solutions and cross-functional delivery over tool-centric framing.
+- Open to conversations involving solutions consulting, client strategy, and marketing technology.
+- Emphasize discovery, clear decisions, stakeholder confidence, and working solutions—not internal dashboard or reporting ownership.
 
 Resume: only offer a download when a real PDF exists in the repository.
 
 ---
 
-## SEO / metadata alignment (for later implementation)
+## SEO / metadata alignment
 
 When updating `index.html`, align title, description, Open Graph, Twitter, and JSON-LD with this plan:
 
-- Position: Marketing Technology, Marketing Analytics, Solutions Consulting
-- Domains: CRM, attribution, reporting, automation, analytics, business systems
-- Do not invent credentials, employers, or metrics in schema beyond what this plan and `AGENTS.md` allow
+- Position: Solutions Consulting, Client Strategy, Marketing Technology
+- Emphasize: discovery, consultative communication, solution shaping, stakeholder alignment, customer outcomes
+- Supporting signals: research-driven writing, podcast conversations, product discovery
+- Technical domains (as credibility, not the primary identity): CRM, attribution, reporting, automation, analytics
+- Do not invent credentials, employers, formal titles (e.g. Sales Engineer, Product Manager), or metrics in schema beyond what this plan and `AGENTS.md` allow
 
 ---
 
@@ -165,4 +303,6 @@ When updating `index.html`, align title, description, Open Graph, Twitter, and J
 1. Prefer applying this copy in `src/App.jsx` and matching SEO in `index.html` in small, reviewable steps.
 2. Preserve the current visual identity and React + Vite + Tailwind + Vercel stack.
 3. After UI implementation changes, run `npm run build`.
-4. Do not invent technologies, metrics, employers, or responsibilities to fill empty UI slots.
+4. Do not invent technologies, metrics, employers, titles, or responsibilities to fill empty UI slots.
+5. If live site copy still reads as internal MarTech operations, replace it with this client-facing plan.
+6. External publication and Emerson feature links must use the exact approved URLs only.
