@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+@theme {
+  --color-page: #f7f8fa;
+  --color-surface: #ffffff;
+  --color-muted-surface: #eceff2;
+  --color-line: #d8dde3;
+  --color-ink: #17191c;
+  --color-muted: #626a73;
+}
+
+@layer base {
+  html {
+    color: var(--color-ink);
+    background-color: var(--color-page);
+  }
+
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--color-ink);
+    outline-offset: 2px;
+  }
+}
