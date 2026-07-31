@@ -98,4 +98,4 @@ export function parseBlogHash(hash) {
 }
 
 export const SITE_TITLE =
-  "Shawn Preval | Solutions Consulting, Client Strategy & Marketing Technology";
+  "Shawn Preval | Solutions Consulting & Marketing Technology";
