@@ -213,23 +213,19 @@ export default function ShawnPortfolioHomepage() {
             </p>
 
             <h1 className="mt-8 max-w-2xl font-serif text-4xl leading-[1.02] tracking-tight md:text-5xl lg:text-6xl">
-              I help clients turn complex marketing technology into clear
-              decisions and working solutions.
+              Analytics, Systems, and Commercial Strategy
             </h1>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-muted">
-              I combine consulting, analytics, and hands-on MarTech experience
-              to lead discovery, clarify business needs, explain technical
-              tradeoffs, and shape solutions that stakeholders can understand
-              and support.
+              Analytics and consulting professional moving into new business
+              sales, with firsthand experience in how marketing, data, and
+              operations teams evaluate and adopt technology.
             </p>
 
             <p className="mt-6 max-w-xl leading-7 text-ink/80">
-              My background includes client advisory work, executive
-              presentations, market research, CRM, attribution, reporting, and
-              automation—giving me the technical credibility to discuss
-              implementation without losing sight of the customer, commercial
-              objective, or business outcome.
+              My background spans client consulting, marketing analytics, CRM,
+              data workflows, business intelligence, and translating technical
+              problems into clear business decisions.
             </p>
 
             <p className="mt-10 text-sm">
@@ -237,8 +233,13 @@ export default function ShawnPortfolioHomepage() {
                 Selected work
               </a>
               <span className="mx-3 text-line">|</span>
-              <a href="#contact" className="font-medium underline-offset-4 hover:underline">
-                Contact
+              <a
+                href="https://www.linkedin.com/in/shawn-preval"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium underline-offset-4 hover:underline"
+              >
+                View LinkedIn
               </a>
             </p>
           </div>
