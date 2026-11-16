@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shawnpreval.com/sitemap.xml
+Sitemap: https://shawnpreval.org/sitemap.xml

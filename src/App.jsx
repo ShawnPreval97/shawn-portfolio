@@ -201,6 +201,7 @@ export default function ShawnPortfolioHomepage() {
           <a href="#writing">Writing</a>
           <a href="#blog">Blog</a>
           <a href="#contact">Contact</a>
+          <a href="/medical-tourism-marketing/">Preval Growth</a>
         </div>
       </nav>
 
@@ -234,7 +235,7 @@ export default function ShawnPortfolioHomepage() {
               </a>
               <span className="mx-3 text-line">|</span>
               <a
-                href="https://www.linkedin.com/in/shawn-preval"
+                href="https://www.linkedin.com/in/shawnpreval/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline-offset-4 hover:underline"
@@ -585,12 +586,12 @@ export default function ShawnPortfolioHomepage() {
                   LinkedIn
                 </p>
                 <a
-                  href="https://www.linkedin.com/in/shawn-preval"
+                  href="https://www.linkedin.com/in/shawnpreval/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-2 inline-block underline-offset-4 hover:underline"
                 >
-                  linkedin.com/in/shawn-preval
+                  linkedin.com/in/shawnpreval
                 </a>
               </div>
 
